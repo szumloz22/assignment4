@@ -117,6 +117,10 @@ body header nav {
     flex: 1;
 }
 
+.linkspacing_4 {
+    flex:5;
+}
+
 body header nav {
     flex: 1;
 }
