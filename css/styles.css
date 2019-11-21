@@ -147,3 +147,16 @@ ol {
         flex-direction: column;
     }
 }
+
+form p {
+    display: flex;
+    margin-bottom: 1em;
+}
+
+form label {
+    flex-basis: 45%;
+}
+
+form select {
+    text-align: center;
+}
